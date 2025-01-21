@@ -1,0 +1,19 @@
+h2{
+    color: lime;
+    text-align: center;
+    font-family: Z003;
+    font-size: 30px;
+}
+td,th{
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    color: blue;
+}
